@@ -8,7 +8,7 @@
 |  | 12/03 |  |  |
 |  | 19/03 | Dr. Marek Szczepańczyk |  |
 |  | 26/03 | Dr. Ryan Turner |  |
-|  | 02/04 |  |  |
+|  | 02/04 | Prof. Debarati Chatterjee  |  |
 |  | 09/04 |  |  |
 |  | 16/04 |  |  |
 |  | 23/04 |  |  |
