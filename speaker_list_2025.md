@@ -13,7 +13,7 @@
 |  | 16/04 |  |  |
 |  | 23/04 |  |  |
 |  | 30/04 | Dr. Ornella J. Piccinni |  |
-|  | 07/05 | Dr. Connor Bottrell (?)  | Not confirmed |
+|  | 07/05 | Dr. Connor Bottrell | |
 |  | 14/05 |  |  |
 |  | 21/05 |  |  |
 |  | 28/05 |  |  |
