@@ -3,7 +3,7 @@
 |  | 05/02 | Dr. Adriano Fontana | cc Karl Glazebrook (kglazebrook@swin.edu.au)  in invite |  
 |  | 12/02 | Dr. Xin Wang |  |
 |  | 19/02 |  |  |
-|  | 26/02 |  |  |
+|  | 26/02 | Rowina Nathan |  |
 |  | 05/03 | Dr. Marcus Lower |  |
 |  | 12/03 |  |  |
 |  | 19/03 | Dr. Marek Szczepańczyk |  |
