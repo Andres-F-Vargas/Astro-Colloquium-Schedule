@@ -7,7 +7,7 @@
 |  | 05/03 | Dr. Marcus Lower |  |
 |  | 12/03 |  |  |
 |  | 19/03 | Dr. Marek Szczepańczyk |  |
-|  | 26/03 | Dr. Ryan Turner |  |
+|  | 26/03 | Sierra Dodd  | Move Dr. Ryan Turner to later date |
 |  | 02/04 | Prof. Debarati Chatterjee  |  |
 |  | 09/04 |  |  |
 |  | 16/04 |  |  |
