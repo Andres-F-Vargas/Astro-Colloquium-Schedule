@@ -5,11 +5,11 @@
 |  | 19/02 |  |  |
 |  | 26/02 | Rowina Nathan |  |
 |  | 05/03 | Dr. Marcus Lower |  |
-|  | 12/03 |  |  |
+|  | 12/03 | Janet Tang (?) | TBC |
 |  | 19/03 | Dr. Marek Szczepańczyk |  |
 |  | 26/03 | Sierra Dodd  | |
 |  | 02/04 | Prof. Debarati Chatterjee  |  |
-|  | 09/04 |  |  |
+|  | 09/04 | Dr. Yuxiang Qin |  |
 |  | 16/04 | Dr. Ryan Turner |  |
 |  | 23/04 |  |  |
 |  | 30/04 | Dr. Ornella J. Piccinni |  |
