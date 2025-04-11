@@ -18,7 +18,7 @@
 |  | 21/05 |  |  |
 |  | 28/05 | Valentina di Marco |  |
 |  | 04/06 | Dr. Ivy Wong |  |
-|  | 11/06 |  |  |
+|  | 11/06 | Dr. Gosia Curylo |  |
 |  | 18/06 |  |  |
 |  | 25/06 |  |  |
 |  | 02/07 |  | Winter Term |
