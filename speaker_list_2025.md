@@ -11,10 +11,10 @@
 |  | 02/04 | Prof. Debarati Chatterjee  |  |
 |  | 09/04 | Dr. Yuxiang Qin |  |
 |  | 16/04 | Dr. Ryan Turner |  |
-|  | 23/04 | Dr. Ryosuke Hirai |  |
+|  | 23/04 | EASTER |  |
 |  | 30/04 | Dr. Ornella J. Piccinni |  |
 |  | 07/05 | Dr. Connor Bottrell | |
-|  | 14/05 |  |  |
+|  | 14/05 | Dr. Ryosuke Hirai |  |
 |  | 21/05 |  |  |
 |  | 28/05 | Valentina di Marco |  |
 |  | 04/06 | Dr. Ivy Wong |  |
