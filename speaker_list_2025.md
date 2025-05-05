@@ -17,7 +17,7 @@
 |  | 14/05 | Dr. Ryosuke Hirai |  |
 |  | 21/05 |  |  |
 |  | 28/05 | Valentina di Marco |  |
-|  | 04/06 | Dr. Ivy Wong |  |
+|  | 04/06 | Dr. Ivy Wong | Online |
 |  | 11/06 | Dr. Gosia Curylo |  |
 |  | 18/06 |  |  |
 |  | 25/06 |  |  |
