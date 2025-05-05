@@ -24,7 +24,7 @@
 |  | 02/07 |  | Winter Term |
 |  | 09/07 |  | Winter Term |
 |  | 16/07 |  | Winter Term |
-|  | 23/07 |  | Winter Term |
+|  | 23/07 | Dr. Matthew Baring | Winter Term |
 |  | 30/07 |  |  |
 |  | 06/08 |  |  |
 |  | 13/08 |  |  |
