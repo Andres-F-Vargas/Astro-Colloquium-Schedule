@@ -27,7 +27,7 @@
 |  | 23/07 | Dr. Matthew Baring | Winter Term |
 |  | 30/07 |  |  |
 |  | 06/08 |  |  |
-|  | 13/08 |  |  |
+|  | 13/08 | Dr. Anais Möller |  |
 |  | 20/08 |  |  |
 |  | 27/08 | Dr. Gosia Curylo  |  |
 |  | 03/09 |  |  |
