@@ -25,7 +25,7 @@
 |  | 09/07 |  | Winter Term |
 |  | 16/07 |  | Winter Term |
 |  | 23/07 | Dr. Matthew Baring | Winter Term |
-|  | 30/07 |  |  |
+|  | 30/07 | Hugh McDougall  |  |
 |  | 06/08 |  |  |
 |  | 13/08 | Dr. Anais Möller |  |
 |  | 20/08 |  |  |
