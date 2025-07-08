@@ -26,7 +26,7 @@
 |  | 16/07 |  | Winter Term |
 |  | 23/07 | Dr. Matthew Baring | Winter Term |
 |  | 30/07 | Hugh McDougall  |  |
-|  | 06/08 |  |  |
+|  | 06/08 | Dr. Miquel C. i Bernadich |  |
 |  | 13/08 | Dr. Anais Möller |  |
 |  | 20/08 |  |  |
 |  | 27/08 | Dr. Gosia Curylo  |  |
