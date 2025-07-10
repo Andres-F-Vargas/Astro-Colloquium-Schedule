@@ -19,7 +19,7 @@
 |  | 28/05 | Valentina di Marco |  |
 |  | 04/06 | Dr. Ivy Wong | Online |
 |  | 11/06 | |  |
-|  | 18/06 | Dr. Sara Webb |  |
+|  | 18/06 | Dr. Sara Webb | CANCELLED|
 |  | 25/06 |  |  |
 |  | 02/07 |  | Winter Term |
 |  | 09/07 |  | Winter Term |
