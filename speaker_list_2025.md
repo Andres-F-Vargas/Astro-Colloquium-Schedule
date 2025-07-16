@@ -1,6 +1,6 @@
-|  | Date   | Speaker |  Notes? |
+|  | Date   | Speaker |  Notes |
 | --- | --- | --- |  --- | 
-|  | 05/02 | Dr. Adriano Fontana | cc Karl Glazebrook (kglazebrook@swin.edu.au)  in invite |  
+|  | 05/02 | Dr. Adriano Fontana |  |  
 |  | 12/02 | Dr. Xin Wang |  |
 |  | 19/02 |  |  |
 |  | 26/02 | Rowina Nathan |  |
