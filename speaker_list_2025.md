@@ -28,7 +28,7 @@
 |  | 30/07 | Hugh McDougall  |  |
 |  | 06/08 | Dr. Miquel C. i Bernadich | Moved to astro Monday meeting |
 |  | 13/08 | Dr. Anais Möller |  |
-|  | 20/08 |  |  |
+|  | 20/08 | Dr. Yuri Levin |  |
 |  | 27/08 | Dr. Gosia Curylo  |  |
 |  | 03/09 |  |  |
 |  | 10/09 |  |  |
