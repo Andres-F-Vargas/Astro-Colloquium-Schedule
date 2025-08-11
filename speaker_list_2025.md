@@ -31,7 +31,7 @@
 |  | 20/08 | Dr. Yuri Levin |  |
 |  | 27/08 | Dr. Gosia Curylo  |  |
 |  | 03/09 |  |  |
-|  | 10/09 |  |  |
+|  | 10/09 | Dr. Chris Blake |  |
 |  | 17/09 |  |  |
 |  | 24/09 |  |  |
 |  | 01/10 | Dr. Adélie Gorce |  |
