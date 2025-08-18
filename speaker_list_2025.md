@@ -30,7 +30,7 @@
 |  | 13/08 | Dr. Anais Möller |  |
 |  | 20/08 | Dr. Yuri Levin |  |
 |  | 27/08 | Dr. Gosia Curylo  |  |
-|  | 03/09 |  |  |
+|  | 03/09 | Dr. Aman Chokshi |  |
 |  | 10/09 | Dr. Chris Blake |  |
 |  | 17/09 |  |  |
 |  | 24/09 |  |  |
