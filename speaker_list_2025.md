@@ -33,7 +33,7 @@
 |  | 03/09 | Dr. Aman Chokshi |  |
 |  | 10/09 | Dr. Chris Blake |  |
 |  | 17/09 |  |  |
-|  | 24/09 |  |  |
+|  | 24/09 | Dr. Nastaran Farhang |  |
 |  | 01/10 | Dr. Adélie Gorce |  |
 |  | 08/10 |  |  |
 |  | 15/10 | Dr. Erika Hamden  |  |
