@@ -35,7 +35,7 @@
 |  | 17/09 |  |  |
 |  | 24/09 | Dr. Nastaran Farhang |  |
 |  | 01/10 | Dr. Adélie Gorce |  |
-|  | 08/10 |  |  |
+|  | 08/10 | Dr. Taweewat Somboonpanyakul |  |
 |  | 15/10 | Dr. Erika Hamden  |  |
 |  | 22/10 |  |  |
 |  | 29/10 |  |  |
