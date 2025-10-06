@@ -37,7 +37,7 @@
 |  | 01/10 | Dr. Adélie Gorce |  |
 |  | 08/10 | Dr. Taweewat Somboonpanyakul |  |
 |  | 15/10 | Dr. Erika Hamden  |  |
-|  | 22/10 |  |  |
+|  | 22/10 | Dr. Ilya Mandel |  |
 |  | 29/10 |  |  |
 |  | 05/11 | Dr. Michele Trenti |  |
 |  | 12/11 | AAL update |  |
