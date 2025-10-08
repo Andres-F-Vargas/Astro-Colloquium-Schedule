@@ -38,7 +38,7 @@
 |  | 08/10 | Dr. Taweewat Somboonpanyakul |  |
 |  | 15/10 | Dr. Erika Hamden  |  |
 |  | 22/10 | Dr. Ilya Mandel |  |
-|  | 29/10 |  |  |
+|  | 29/10 | Sabrina Berger |  |
 |  | 05/11 | Dr. Michele Trenti |  |
 |  | 12/11 | AAL update |  |
 |  | 19/11 | Dr. Grace Lawrence  |  |
