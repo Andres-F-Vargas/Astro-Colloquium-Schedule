@@ -1,7 +1,7 @@
 |  | Date   | Speaker | Notes |
 | --- | --- | --- | --- |
 |  | 28/01 | Dr. Yinzhe Ma |  |
-|  | 04/02 |  |  |
+|  | 04/02 | Ashna Gulati |  |
 |  | 11/02 | Dr. Ji-Jia Tang |  |
 |  | 18/02 |  |  |
 |  | 25/02 |  |  |
