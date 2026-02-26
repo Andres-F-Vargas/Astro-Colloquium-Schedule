@@ -7,8 +7,8 @@
 |  | 25/02 |  |  |
 |  | 04/03 |  |  |
 |  | 11/03 |  |  |
-|  | 18/03 | Dr. Matthew Baring |  |
-|  | 25/03 |  |  |
+|  | 18/03 | Dr. Alex J. Cameron |  |
+|  | 25/03 | Dr. Matthew Baring |  |
 |  | 01/04 | Dr. Ryan Shannon |  |
 |  | 08/04 | Dr. Sara Webb |  |
 |  | 15/04 |  |  |
