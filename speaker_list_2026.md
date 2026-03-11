@@ -11,7 +11,7 @@
 |  | 25/03 | Dr. Matthew Baring |  |
 |  | 01/04 | Dr. Ryan Shannon |  |
 |  | 08/04 | Dr. Sara Webb |  |
-|  | 15/04 |  |  |
+|  | 15/04 | (International Guest) |  |
 |  | 22/04 | Dr. Michele Trenti |  |
 |  | 29/04 | Dr. Emma Carli |  |
 |  | 06/05 |  |  |
