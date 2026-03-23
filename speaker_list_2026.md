@@ -9,14 +9,14 @@
 |  | 11/03 | Dr. Josh Baines |  |
 |  | 18/03 | Dr. Alex J. Cameron |  |
 |  | 25/03 | Dr. Matthew Baring |  |
-|  | 01/04 | Dr. Ryan Shannon |  |
+|  | 01/04 | Dimitra Tseneklidou |  |
 |  | 08/04 | Dr. Sara Webb |  |
 |  | 15/04 |  | KP3+4 Workshop |
 |  | 22/04 | Dr. Michele Trenti |  |
 |  | 29/04 | Dr. Emma Carli |  |
 |  | 06/05 |  |  |
 |  | 13/05 |  |  |
-|  | 20/05 |  |  |
+|  | 20/05 | Dr. Ryan Shannon |  |
 |  | 27/05 |  |  |
 |  | 03/06 |  |  |
 |  | 10/06 |  |  |
